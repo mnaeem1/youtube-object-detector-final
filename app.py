@@ -10,7 +10,6 @@ from collections import defaultdict
 from PIL import Image
 import numpy as np
 
-# Load YOLOv8n model from local file
 model = YOLO("yolov8n.pt")
 
 def download_video_yt_dlp(url, output_path):

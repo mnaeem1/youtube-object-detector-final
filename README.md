@@ -1,4 +1,3 @@
-
 ---
 title: "YouTube Object Detector"
 emoji: "🎥"
